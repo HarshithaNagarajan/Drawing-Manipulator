@@ -11,3 +11,4 @@ This project deals with the design of a planar robotic manipulator that can draw
 3. On the menu that appears, choose a shape for Mipie to draw, and enter its appropriate dimensions
 
 ## Video demo 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/-UHQSuPKSas/0.jpg)](https://youtu.be/-UHQSuPKSas)
